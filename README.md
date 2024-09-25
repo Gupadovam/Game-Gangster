@@ -1,6 +1,7 @@
 # Gangster
 
 A C++ Object Oriented game made using the SFML library, for Programing Techniques (Técnicas de Programação) course at UTFPR.
+![gif](https://github.com/Gupadovam/Game-Gangster/blob/main/GIF/GIF.gif)
 
 If you want to know more about the game, take a look at the report about it -> [Gangster](https://github.com/Gupadovam/Game-Gangsters/blob/main/Gangster_Relatorio.docx.pdf)
 
